@@ -1,5 +1,5 @@
 {
-  "name": "hello-parcel",
+  "name": "hello-tailwind",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -24,7 +24,6 @@
   },
   "browserslist": [
     "IE >= 9",
-     "last 3 version"
-
+    "last 3 version"
   ]
 }
